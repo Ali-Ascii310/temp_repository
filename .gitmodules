@@ -1,0 +1,3 @@
+[submodule "temp_repository"]
+	path = temp_repository
+	url = https://github.com/alitariq1357/temp_repository.git
