@@ -5,6 +5,6 @@ node('Runner1'){
     sh''' #!/bin/bash
       echo -e "Helloworld"
     ''' 
-    }
+    } 
 }
  
