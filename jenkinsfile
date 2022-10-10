@@ -5,6 +5,6 @@ node{
     sh'''#!/bin/bash
       echo -e "Helloworld"
       '''
-    } 
+    }  
 } 
  
