@@ -1,7 +1,9 @@
 node{
     checkout scm //Getting content of this repo
     stage('*** Compilation Phase ***') { // for display purposes
+    sh''' #!/bin/bash
       echo -e "Helloworld"
+    '''
     }
 }
  
