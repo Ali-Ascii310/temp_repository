@@ -1,4 +1,4 @@
-node{
+node('Runner1'){
     git branch: 'main', url: 'https://github.com/alitariq1357/temp_repository.git'
     checkout scm //Getting content of this repo
     stage('*** Compilation Phase ***') { // for display purposes
